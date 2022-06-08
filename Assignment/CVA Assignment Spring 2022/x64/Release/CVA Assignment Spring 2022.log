@@ -1,0 +1,104 @@
+﻿  FinalProject.cpp
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(116,32): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(117,63): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(135,11): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(135,40): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(136,12): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(136,42): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(158,99): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(158,79): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(158,59): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(175,59): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(176,58): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(177,56): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(178,57): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(179,58): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(180,59): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(181,59): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\FinalProject.cpp(182,58): warning C4305: 'argument': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+  Generating code
+  18 of 469 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CVA Assignment Spring 2022.vcxproj -> D:\College Works\Spring 2022\Computer Vision and Applications\Assignment\CVA Assignment Spring 2022\x64\Release\CVA Assignment Spring 2022.exe
